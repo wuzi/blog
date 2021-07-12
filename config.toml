@@ -4,6 +4,7 @@ title = "Wuzi Codes"
 theme = "cactus"
 copyright = "Wuzi" # cactus will use title if copyright is not set
 disqusShortname = "" # Used when comments is enabled. Cactus will use site title if not set
+staticDir = ["static"]
 # googleAnalytics = "UA-1234-5"
 
 # summaryLength = 2
