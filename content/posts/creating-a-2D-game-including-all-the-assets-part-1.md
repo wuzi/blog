@@ -20,18 +20,18 @@ After watching lots of videos about drawing 2D games I decided to start with som
 
 ![tileset](/images/woltileset.jpg)
 
-But after studying a bit more, I'll probably redraw that in 16x16, which will be even easier as a first project.
+But after studying a bit more, I realized that 16x16 would be a better size to begin, which i feel will be even easier as a first project, I'm gonna redraw it later.
 
-Now I needed to draw the main character before putting everything in the game, for the character I started 16x16 right away. Drawing it in a single pose wasn't too bad (althought it is very simple):
+Now I needed to draw the main character before putting everything in the game, for the character I started 16x16 right away. Drawing it in a single pose wasn't too difficult (althought it is a very simple character):
 
 ![character](/images/character.jpg)
 
-But animation was another story, I decided to just switch the legs as a bare minimum animation just to see how it will look in the game. 
+Animation however was a complete different story, I tried to make a simple walking cycle but it wasn't working out, so I decided to just switch the legs as a bare minimum animation just to see how it will look in the game.
 
 ![charactersheet](/images/charactersheet.gif)
 
-And this is how the game is looking so far (image quality is terrible):
+And this is how the game is looking so far:
 
 ![charactersheet](/images/final.gif)
 
-This is being a lot of fun, I'll continue to work on it and see how far it goes.
+This is being a lot of fun, I'll continue to work on it, add support for multiplayer and maybe add new levels, let's see how far it goes.
