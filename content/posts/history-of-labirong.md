@@ -13,7 +13,7 @@ keywords:
     - labirong
 ---
 
-For those curious why I have so many labyrinth stuff (mainly named labirong) on my GitHub, I'm going to share the history of labirong and some pictures of its progress throughout the years 
+For those curious why I have so many labyrinth stuff (mainly named labirong) on my GitHub, I'm going to share the history of labirong and some pictures of its progress throughout the years.
 
 It all started back in 2017, my friend was on his last years of computer science course and received a home task to create a script that would read a .txt file containing 0s and 1s and display a block on the screen where it was 1 and a blank space where it was 0. So I joined him just for fun and we made it.
 
