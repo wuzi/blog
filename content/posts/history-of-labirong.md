@@ -58,7 +58,7 @@ I did some changes on the camera distance and made it follow the player instead 
 
 ![maze](/images/history-of-labirong/maze-version-3.png)
 
-Right now it was looking very nice and it was pretty fun trying to finish the labyrinth. But I always enjoyed multiplayer games more, so it was the last thing missing. Multiplayer was added and if someone found the exist the map would be regenerated automatically:
+Right now it was looking very nice and it was pretty fun trying to finish the labyrinth. But I always enjoyed multiplayer games more, so it was the last thing missing. Multiplayer was added and if someone found the exit the map would be regenerated automatically:
 
 ![maze](/images/history-of-labirong/maze-version-4.png)
 
